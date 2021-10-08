@@ -1,0 +1,19 @@
+.bodystyle{
+        width:100;
+  background-color:#6C78C4;
+
+}
+.headerstyle{
+  margin-bottom:10px;
+         text-align:center;
+         width:1350;
+         height:80;
+  background-color:#E98080;
+}
+.footerstyle{
+  margin-top:375px;
+  text-align:center;
+  width:1350;
+  height:100;
+  background-color:#31CDCD;
+}
